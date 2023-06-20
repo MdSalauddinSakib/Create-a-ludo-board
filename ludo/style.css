@@ -2,7 +2,7 @@
 
 .box{
     border: 1px solid black;
-    width: 280px;
+    width: 250px;
     height: 250px;
 }
 
@@ -18,5 +18,15 @@
 }
 
 .sss{
+    display: flex;
+}
+
+.under-box{
+    width: 128px;
+    height: 128px;
+    background-color: blue;
+}
+
+.section-2{
     display: flex;
 }
